@@ -72,9 +72,9 @@ The dashboard helps decision-makers dive into *key business insights* from 2017â
 
   * Opportunity to scale via distributor network.
 
-  * *Export*:
+*Export*:
 
-  * Highest margin (38.12%).
+   * Highest margin (38.12%).
 
    * Lowest sales ($22.64M, 10K units).
 
